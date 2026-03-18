@@ -18,6 +18,13 @@ export const ASSETS = {
   HERO_BG_IMAGE: "https://raw.githubusercontent.com/koperasitokata/image/refs/heads/main/tokata%20hd%20hd.png",
   HERO_BG_OPACITY: "opacity-10", // Contoh: opacity-10, opacity-20, opacity-50
 
+  // Metadata untuk Berbagi (Social Sharing / Open Graph)
+  SHARING: {
+    APP_NAME: "Tokata Website",
+    DESCRIPTION: "Tokata: Membangun Ekosistem Masa Depan melalui Fashion dan Koperasi Digital.",
+    THUMBNAIL_URL: "https://raw.githubusercontent.com/koperasitokata/image/refs/heads/main/thumbnail%20web%20tokata.jpg", // Gambar yang muncul saat link dibagikan
+  },
+
   // Semua teks narasi di aplikasi
   TEXT: {
     NAV: {
